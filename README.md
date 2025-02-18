@@ -1,4 +1,4 @@
-# 👋 Hello, world! I'm [Tu Nombre]  
+# 👋 Hello, world! I'm Manuel López  
 
 ## 🚀 About Me  
 - 🎓 **Professor** at Universidad Autónoma de Yucatán  
