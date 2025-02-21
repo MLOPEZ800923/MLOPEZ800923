@@ -7,7 +7,8 @@
 
 ## 💡 Interests  
 - 🖋️ **Fan of Agatha Christie** – nothing beats a good mystery! 🔍  
-- 🎨 **Leonora Carrington enthusiast** – surrealism at its finest ✨  
+- 🎨 **Leonora Carrington enthusiast** – surrealism at its finest ✨
+- 🎬 **David Lynch enthusiast** – the art of the strange and surreal 🎥   
 - 🎸 **The Offspring fan** – punk rock never dies! 🎶  
 
 ## 💻 Tech Stack  
